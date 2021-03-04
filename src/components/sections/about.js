@@ -141,12 +141,12 @@ const About = () => {
       <div className="inner">
         <StyledText>
           <div>
-            <p>Hello! I'm Brittany, a software engineer based in Boston, MA.</p>
+            <p>Hello! I'm Nish, a software engineer based in Greater New York City Area, NY.</p>
 
             <p>
-              I enjoy creating things that live on the internet, whether that be websites,
-              applications, or anything in between. My goal is to always build products that provide
-              pixel-perfect, performant experiences.
+              I love creating things for the web, and my main focus is frontend development with 
+              state of the art technologies. With a background in Finance and Business Management,
+              I want to build things that help these industries work efficiently.
             </p>
 
             <p>
