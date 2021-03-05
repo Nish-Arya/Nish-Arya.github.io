@@ -143,16 +143,16 @@ const About = () => {
             <p>Hello! I'm Nish, a software engineer based in Greater New York City Area, NY.</p>
 
             <p>
-              I love creating things for the web, and my main focus is frontend development with 
-              state of the art technologies. With a background in Finance and Business Management,
-              I want to build things that help these industries work efficiently.
+              I love creating things for the web, and my main focus is frontend development with
+              state of the art technologies. With a background in Finance and Business Management, I
+              want to build things that help these industries work efficiently.
             </p>
 
             <p>
-              Shortly after graduating from{' '}
-              <a href="https://www.ccis.northeastern.edu">Northeastern University</a>, I joined the
-              engineering team at <a href="https://www.upstatement.com">Upstatement</a> where I work
-              on a wide variety of interesting and meaningful projects on a daily basis.
+              Shortly after graduating from <a href="https://umaine.edu/">University of Maine</a>, I
+              joined <a href="https://www.appacademy.io/">App Academy</a> where I work on and assist
+              other students working on a wide variety of interesting and meaningful projects on a
+              daily basis.
             </p>
 
             <p>Here are a few technologies I've been working with recently:</p>
