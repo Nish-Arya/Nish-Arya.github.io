@@ -131,7 +131,17 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['JavaScript (ES6+)', 'HTML & CSS', 'React', 'Node.js', 'Sequelize', 'Python', 'Flask', 'Docker', 'SQLAlchemy'];
+  const skills = [
+    'JavaScript (ES6+)',
+    'HTML & CSS',
+    'React',
+    'Node.js',
+    'Sequelize',
+    'Python',
+    'Flask',
+    'Docker',
+    'SQLAlchemy',
+  ];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -145,7 +155,7 @@ const About = () => {
             <p>
               I love creating things for the web, and my main focus is frontend development with
               state of the art technologies. With a background in Finance and Business Management, I
-              want to build things that help these industries work efficiently.
+              want to build tools that help these industries work efficiently.
             </p>
 
             <p>
