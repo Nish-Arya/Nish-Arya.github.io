@@ -150,7 +150,7 @@ const About = () => {
       <div className="inner">
         <StyledText>
           <div>
-            <p>Hello! I'm Nish, a software engineer based in Greater New York City Area, NY.</p>
+            <p>Hello! I'm Nish, a software engineer based in Greater New York City Area.</p>
 
             <p>
               I love creating things for the web, and my main focus is frontend development with
