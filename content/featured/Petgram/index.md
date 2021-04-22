@@ -1,5 +1,5 @@
 ---
-date: '2'
+date: '1'
 title: 'Petgram'
 cover: './petgram.png'
 github: 'https://github.com/Nish-Arya/Instagram-clone'

@@ -1,5 +1,5 @@
 ---
-date: '3'
+date: '2'
 title: 'Snack Overflow (Group Project)'
 cover: './snack-overflow.png'
 github: 'https://github.com/shaieleigh/stackOverFlow'
