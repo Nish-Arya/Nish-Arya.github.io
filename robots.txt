@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
-Sitemap: https://nisharya.com/sitemap.xml
-Host: https://nisharya.com
+Sitemap: https://nish-arya.github.io.com/sitemap.xml
+Host: https://nish-arya.github.io.com
